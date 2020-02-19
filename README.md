@@ -8,4 +8,4 @@ https://github.com/mireiaGomariz/discover-netlify.githttps://github.com/mireiaGo
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://determined-archimedes-9176b0.netlify.com]()
+* Link to the website deployed on Netlify : https://determined-archimedes-9176b0.netlify.com()
